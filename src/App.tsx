@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import Header from './components/Header/Header';
 import SearchInput from './components/Search/SearchInput';
 import TopCities from './components/TopCities/TopCities';
